@@ -1,10 +1,10 @@
-# Laravel Localization 
+# Laravel Datatable 
 
 ![Demo Image](public/img/datatable.png)
 
 ## Introduction
 
-Laravel Datatable Example.
+Laravel Datatable example with Edit user and Delete user actions.
 
 ## Setup
  
